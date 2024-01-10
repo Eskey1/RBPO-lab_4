@@ -1,0 +1,17 @@
+﻿  lab_4.cpp
+D:\Лабы РБПО\lab_4\lab_4\lab_4\lab_4.cpp(92,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Лабы РБПО\lab_4\lab_4\lab_4\lab_4.cpp(92,5): message : во время компиляции функции-члена класс шаблон "QueueBasedOnArray<int>::QueueBasedOnArray(std::initializer_list<T>)"
+          with
+          [
+              T=int
+          ]
+D:\Лабы РБПО\lab_4\lab_4\lab_4\lab_4.cpp(247,47): message : см. первую ссылку на "QueueBasedOnArray<int>::QueueBasedOnArray" в "main"
+D:\Лабы РБПО\lab_4\lab_4\lab_4\lab_4.cpp(245,28): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "QueueBasedOnArray<int>"
+D:\Лабы РБПО\lab_4\lab_4\lab_4\lab_4.cpp(233,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Лабы РБПО\lab_4\lab_4\lab_4\lab_4.cpp(230,1): message : во время компиляции функции-члена класс шаблон "QueueBasedOnArray<int> &QueueBasedOnArray<int>::operator =(std::initializer_list<T>)"
+          with
+          [
+              T=int
+          ]
+D:\Лабы РБПО\lab_4\lab_4\lab_4\lab_4.cpp(250,18): message : см. первую ссылку на "QueueBasedOnArray<int>::operator =" в "main"
+  lab_4.vcxproj -> D:\Лабы РБПО\lab_4\lab_4\x64\Debug\lab_4.exe
